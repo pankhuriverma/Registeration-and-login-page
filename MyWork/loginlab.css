@@ -1,0 +1,49 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.main1{
+	height: 700px;
+	width: 100%;
+	background-color: black;
+	float: left;
+}
+
+.main{
+	height: 500px;
+	width: 400px;
+	background-color:#a4f442;
+	border:2px solid white;
+
+	float: left;
+	margin-left:35%;
+	margin-top: 70px;
+}
+
+.con{
+	margin-left: 90px;
+	height: 400px;
+	width: 300px;
+	font-size:20px;
+	font-family: calibri;
+	margin-top: 100px;
+
+}
+
+.inp{
+	width: 200px;
+	margin-top: 10px;
+	height: 20px;
+}
+
+.inp2{
+	width: 205px;
+	margin-top: 15px;
+	height: 25px;
+}
+
+.head{
+	margin-left: 55px;
+	margin-bottom: 20px;
+}

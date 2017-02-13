@@ -1,0 +1,1 @@
+Registeration successfully completed.

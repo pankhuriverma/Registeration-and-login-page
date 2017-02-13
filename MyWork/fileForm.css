@@ -1,0 +1,157 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.main{
+	height: 650px;
+	width:1100px;
+	/*background-color: red;*/
+	margin-top: 20px;
+	margin-left:150px;
+	border: 2px solid black;
+	float: left;
+}
+
+
+
+.main p{
+	
+	margin-top: 20px;
+	float: left;
+	font-size: 30px;
+	text-align: center;
+	margin-left: 500px;
+	font-family: calibri;
+	
+
+}
+
+#bt1
+{
+	margin-top: 50px;
+	margin-left: 200px;
+	height: 40px;
+	width: 30%;
+	float: left;
+}
+
+#bt2{
+	margin-top: 50px;
+	margin-left: 68px;
+	height: 40px;
+	width: 30%;
+	float: left;
+}
+
+.back{
+	height: 650px;
+	width:1100px;
+	background-color:rgba(0, 0, 0, 0.2);
+	/*background-color: red;*/
+	/*opacity: 0.5;*/
+	position: absolute;
+	float: left;
+	visibility: hidden;
+	/*display: none;*/
+}
+
+.form_top1{
+	height: 520px;
+	width: 500px;
+	/*background-color: white;*/
+	float: left;
+	margin: 100px 50px 100px 300px;
+	background-color:rgba(247,122,114,1);
+	/*background-color: black;*/
+	/*background-color: red;*/
+	visibility: hidden;
+	position: absolute;
+	-Webkit-transform:scale(0,0);
+	border:1px solid black;
+}
+
+.photo{
+			height: 120px;
+			width: 120px;
+			/*background-color: red;*/
+			border-radius: 50%;
+			margin-left: 40%;
+			position: absolute;
+			margin-top: 20px;
+		}
+.reg{
+	margin-top: 30px;
+	width: 255px;
+}
+
+.photo img{
+	width: 100%;
+	position: absolute;
+}
+
+/*.form_top1 input{
+	width: 250px;
+}*/
+
+.form1{
+	margin-top: 150px;
+	font-family: calibri;
+	color: white;
+	font-size: 18px;
+	margin-left: 120px;
+}
+
+.form1 input{
+	width: 250px;
+	height: 30px;
+}
+
+
+
+.form2{
+	margin-top: 150px;
+	font-family: calibri;
+	color: white;
+	font-size: 18px;
+	margin-left: 120px;
+}
+
+.form2 input{
+	width: 250px;
+	height: 30px;
+	/*margin-top: 10px;*/
+}
+
+
+.form_top2{
+	height: 520px;
+	width: 500px;
+	/*background-color: white;*/
+	float: left;
+	margin: 100px 50px 100px 300px;
+	background-color:rgba(247,122,114,1);
+	visibility: hidden;
+	position: absolute;
+	-Webkit-transform:scale(0,0);
+	border:1px solid black;
+
+}
+
+.form_top2 input{
+	width: 250px;
+}
+
+.cross{
+	height: 30px;
+	width: 100%;
+	/*background-color: red;*/
+	float: left;
+}
+.cross img{
+	width:3%;
+	margin-left: 95%;
+	margin-top: 5px;
+}
+
+
